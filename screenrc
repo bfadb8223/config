@@ -1,5 +1,0 @@
-escape "^Xx"
-defscrollback 5000
-termcapinfo xterm* ti@:te@
-startup_message off
-msgwait 1
